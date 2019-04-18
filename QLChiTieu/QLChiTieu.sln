@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLChiTieu", "QLChiTieu\QLChiTieu.csproj", "{9DE1E80B-1DE8-4678-9FAE-6E4CD39C6C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLChiTieu.Tests", "QLChiTieu.Tests\QLChiTieu.Tests.csproj", "{08FA4005-C8C3-461A-9B9F-15653802A01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE1E80B-1DE8-4678-9FAE-6E4CD39C6C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE1E80B-1DE8-4678-9FAE-6E4CD39C6C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE1E80B-1DE8-4678-9FAE-6E4CD39C6C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE1E80B-1DE8-4678-9FAE-6E4CD39C6C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FA4005-C8C3-461A-9B9F-15653802A01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FA4005-C8C3-461A-9B9F-15653802A01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FA4005-C8C3-461A-9B9F-15653802A01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FA4005-C8C3-461A-9B9F-15653802A01C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
